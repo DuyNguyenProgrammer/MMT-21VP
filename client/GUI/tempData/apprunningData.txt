@@ -1,0 +1,8 @@
+16564,Task Switcher,91
+22676,Phone Link,34
+11620,Notepad,17
+17616,Sever,13
+22692,Messenger,90
+23684,Windows PowerShell,13
+17580,obs64,39
+16564,Program Manager,91
